@@ -3,9 +3,9 @@ Task Manager is a full-stack web application designed to help users efficiently 
 
 
 
-# 📝 MERN Task Manager App
+#  Task Manager App
 
-A full-stack **Task Manager Application** built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+A full-stack **Task Manager Application** built using the  MongoDB, Express, React, Node.js.  
 The app allows users to register, log in, and manage tasks (CRUD operations).  
 
 This project connects to a pre-configured **MongoDB Atlas database** which already contains sample **users** and **tasks**.
